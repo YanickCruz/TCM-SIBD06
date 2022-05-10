@@ -43,3 +43,26 @@ A empresa Pingo Doce que tem número 808 20 45 45, o fornecimento é feito da lo
 A empresa Zumub que tem o número 707019426, a loja fica localizada em Lisboa e o email é info@zumub.pt.
 
 ## Modelação do problema
+O cliente tem uma forma de identificação, como vários clientes não podem ter o mesmo número de identificação, o Cartão identificação vem com o número de cliente, morada e o número de telefone e a suposta foto do cliente, idade.
+
+Temos também o pagamento que pode ser semanal ou mensal temos várias maneiras de pagamento como multibanco, dinheiro em mão, Mb Way.
+
+Temos alguns fornecedores como:
+
+- Fornecedor de equipamentos é a empresa Fitness que tem um contacto específico, um armazém e o email. Esta empresa responsabiliza toda transição até chegar ao nosso estabelecimento e cada equipamento tem um o preço específico e tamanho;
+
+ -Fornecedor de água é a empresa pingo doce que responsável pela Venda e transportes dessas possíveis mercadorias mensais que tem um contacto específico, loja especifica e o email;
+
+- Fornecedor de proteínas e suplementos que é a empresa o Zumub que é responsável pela venda e transporte dessas possíveis mercadorias mensais que tem um contacto específico, loja especifica e o email;
+
+Relativamente aos funcionários que tem uma respetiva área de trabalho, nome, morada, número telefone.
+
+Respetiva área de trabalho dos funcionários:
+
+- Personal Treinar (nome, morada, número telefone);
+
+- Nutricionista (nome, morada, número telefone);
+
+- Rececionista (nome, morada, número telefone);
+
+-Empregada (nome, morada, número telefone);
